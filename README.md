@@ -10,3 +10,5 @@ Edit line 26 to point to your BGI folder to use graphics functionality.
 
 Run the program in the compiler,it will launch a screen if graphics environment is set.
 
+Enjoy the game.
+
