@@ -2,7 +2,7 @@
 Replica of eight queens puzzle as a game in C using graphics.h
 
 
-#[PREREQUISITES]
+[PREREQUISITES]
 
 Ensure you have C complier which supports graphics or a complier which has graphics.h header file.
 
